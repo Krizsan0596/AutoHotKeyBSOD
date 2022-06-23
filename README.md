@@ -5,3 +5,5 @@ It just opens a run promt, starts chrome, types in the path to the file, waits 2
 
 It is very easy to change it to work with firefox, just change chrome to firefox in the script. But I do want to point out that Firefox crashes **immediately** after typing the path, so ***no*** safety if you run it by accident. 
 You can also easily change this to *DuckyScript* to run with a *Rubber ducky* which is faster, I did this in AHK because I can't afford one.
+
+The vulnerability had been fixed, but I'm still pretty proud of this script, and you can still use it on older PCs.
